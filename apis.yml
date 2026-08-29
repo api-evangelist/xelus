@@ -30,6 +30,9 @@ description: Xelus was a service parts planning and optimization software compan
   2005, and no longer operates independently. Its website (xelus.com) is defunct and the company
   publishes no public API surface, developer portal, SDKs, or packages.
 url: https://raw.githubusercontent.com/api-evangelist/xelus/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Its website (xelus.com) is defunct and the company publishes no public API surface, developer portal, SDKs, or packages."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
